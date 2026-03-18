@@ -22,12 +22,12 @@ Experienced in ANSYS Fluent, OpenFOAM, Python, and delivering measurable enginee
 
 ---
 
-### 📁 `/Diploma`
+## 📁 Diploma
 - **MSc Computational Fluid Dynamics** – Cranfield University (UK) | 2025
 - **Reference Letter,CFD** – Tom Teschner, Director CFD- Cranfield U (UK)
 - **BEng Mechanical Engineering** – Universidad del Valle (Colombia) | 2022
 ---
- 📁 `/Certifications`
+## 📁 Certifications
 - **Project Management** – Politécnico de Colombia
 - **Advanced Fluid Mechanics & CFD** – Udemy
 - **IELTS Academic** – C1 Level

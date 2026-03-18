@@ -35,12 +35,8 @@ Experienced in ANSYS Fluent, OpenFOAM, Python, and delivering measurable enginee
 - **CAE (Computer Aided Engineering)** - iESSS: 
 
 ## 📁 Portafolio
-            - **🏎️ F1 Aerothermal Analysis**  - Executive Summary (Red Bull Racing collaboration)  
-            Transient CFD study of wheel/brake cooling. UDF development + validation against experimental data.  
-
-
-            - **🧠 GEMINI: Brain Perfusion Model**  
-            Modernised FEM solver (FEniCS → FEniCS-X). Python post-processing + HPC validation.  - Report
+- **🏎️ F1 Aerothermal Analysis**  - Executive Summary (Red Bull Racing collaboration): Transient CFD study of wheel/brake cooling. UDF development + validation against experimental data.  
+- **🧠 GEMINI: Brain Perfusion Model**  -  Modernised FEM solver (FEniCS → FEniCS-X). Python post-processing + HPC validation.  - Report
 
 ---
 
